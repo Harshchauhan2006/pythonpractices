@@ -1,0 +1,22 @@
+#write a program to input 8 number from user and display all the number once 
+s = set()
+
+n1=input("enter number:")
+s.add(n1)
+n2=input("enter number:")
+s.add(n2)
+n3=input("enter number:")
+s.add(n3)
+n4=input("enter number:")
+s.add(n4)
+n5=input("enter number:")
+s.add(n5)
+n6=input("enter number:")
+s.add(n6)
+n7=input("enter number:")
+s.add(n7)
+n8=input("enter number:")
+s.add(n8)
+sorted_number=sorted(s)
+
+print(sorted_number)

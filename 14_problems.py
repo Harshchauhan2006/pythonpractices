@@ -1,0 +1,17 @@
+#write a program to enter the seven fruits name  enter by the users.
+fruits=[]
+f1=input("what is the name of fruits: ")
+fruits.append(f1)
+f2=input("what is the name of fruits: ")
+fruits.append(f2)
+f3=input("what is the name of fruits: ")
+fruits.append(f3)
+f4=input("what is the name of fruits: ")
+fruits.append(f4)
+f5=input("what is the name of fruits: ")
+fruits.append(f5)
+f6=input("what is the name of fruits: ")
+fruits.append(f6)
+f7=input("what is the name of fruits: ")
+fruits.append(f7)
+print(fruits)
