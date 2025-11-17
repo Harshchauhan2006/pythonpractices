@@ -7,7 +7,6 @@
 #<50 =>F
 
 marks=int(input("Enter your marks: "))
-
 if(marks<100 and marks>=90):
     Grade ="Ex"
 elif(marks<90 and marks>=80):
@@ -21,5 +20,4 @@ elif(marks<60 and marks>=50):
 
 elif((marks<50)):
     Grade ="F"
-
 print("Your grade is:-",Grade)
