@@ -2,9 +2,8 @@
 l=["Harsh", "rohit", "krishna", "rohan", "satyam"]
 
 name=input("enter a name:- ")
-
 if(name in l):
     print("enter name is in list")
-
 else:
     print("enter name is not in the list")
+
