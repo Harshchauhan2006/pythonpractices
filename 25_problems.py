@@ -10,5 +10,4 @@ a.update({name1:lang1})
  
 print(a)
 
-
 #result will be the last updated lang
