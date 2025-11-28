@@ -13,5 +13,3 @@ if((p1 in message) or (p2 in message) or (p3 in message) or (p4 in message)):
 
 else:
     print("this is not spam comment")
-
-
