@@ -11,4 +11,6 @@ if(total_percentage>=40 and maths>=33 and science>=33 and hindi>=33):
      print("you are passed:",total_percentage)
 
 else:
+
      print("you failed try again next year:",total_percentage)
+     
