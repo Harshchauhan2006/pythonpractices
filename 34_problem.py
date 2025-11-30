@@ -3,8 +3,10 @@ post=input("enter post :-")
 
 if("Harsh"  in post):
     print("this post is talking about Harsh")
-
+    
 else:
     print("this post not  talk about Harsh")
+
+
 
 
