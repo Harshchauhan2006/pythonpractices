@@ -2,4 +2,5 @@
 A=21
 Z=5
 remainder=A%Z
+
 print(remainder)
